@@ -1,0 +1,16 @@
+{
+	"packageManager": "pnpm@9.11.0",
+	"dependencies": {
+		"esbuild": "^0.24.0"
+	},
+	"pnpm": {
+		"supportedArchitectures": {
+			"os": [
+				"darwin"
+			],
+			"cpu": [
+				"arm64"
+			]
+		}
+	}
+}
