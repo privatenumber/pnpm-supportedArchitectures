@@ -1,7 +1,7 @@
 {
 	"packageManager": "pnpm@9.11.0",
 	"dependencies": {
-		"esbuild": "^0.24.0"
+		"@nx/vite": "19.8.2"
 	},
 	"pnpm": {
 		"supportedArchitectures": {
